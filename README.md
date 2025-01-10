@@ -52,18 +52,3 @@ This Streamlit app simulates and visualizes token unlock schedules with dynamic 
 ## License
 
 Creative Commons Legal Code License
-
----
-
-## requirements.txt
-
-```
-streamlit
-matplotlib
-numpy
-pandas
-```
-
----
-
-*Ensure that Python 3.7+ is installed on your machine.*
