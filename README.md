@@ -1,6 +1,3 @@
-# distribution
-Code allowing to shape your own distribution law. 
-
 ## README.md
 
 # Interactive Token Unlock Schedule with Market Depth Provisioning
